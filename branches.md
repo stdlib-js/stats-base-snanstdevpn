@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/snanstdevpn"
-click B href "https://github.com/stdlib-js/stats-base-snanstdevpn/tree/main"
-click C href "https://github.com/stdlib-js/stats-base-snanstdevpn/tree/production"
-click D href "https://github.com/stdlib-js/stats-base-snanstdevpn/tree/esm"
-click E href "https://github.com/stdlib-js/stats-base-snanstdevpn/tree/deno"
-click F href "https://github.com/stdlib-js/stats-base-snanstdevpn/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/snanstdevpn"
+%% click B href "https://github.com/stdlib-js/stats-base-snanstdevpn/tree/main"
+%% click C href "https://github.com/stdlib-js/stats-base-snanstdevpn/tree/production"
+%% click D href "https://github.com/stdlib-js/stats-base-snanstdevpn/tree/esm"
+%% click E href "https://github.com/stdlib-js/stats-base-snanstdevpn/tree/deno"
+%% click F href "https://github.com/stdlib-js/stats-base-snanstdevpn/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/snanstdevpn

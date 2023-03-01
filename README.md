@@ -247,11 +247,11 @@ console.log( v );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/stats/base/dnanstdevpn`][@stdlib/stats/base/dnanstdevpn]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array ignoring NaN values and using a two-pass algorithm.</span>
--   <span class="package-name">[`@stdlib/stats/base/nanstdevpn`][@stdlib/stats/base/nanstdevpn]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a strided array ignoring NaN values and using a two-pass algorithm.</span>
--   <span class="package-name">[`@stdlib/stats/base/snanstdev`][@stdlib/stats/base/snanstdev]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a single-precision floating-point strided array ignoring NaN values.</span>
--   <span class="package-name">[`@stdlib/stats/base/snanvariancepn`][@stdlib/stats/base/snanvariancepn]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array ignoring NaN values and using a two-pass algorithm.</span>
--   <span class="package-name">[`@stdlib/stats/base/sstdevpn`][@stdlib/stats/base/sstdevpn]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a single-precision floating-point strided array using a two-pass algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats-base/dnanstdevpn`][@stdlib/stats/base/dnanstdevpn]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array ignoring NaN values and using a two-pass algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats-base/nanstdevpn`][@stdlib/stats/base/nanstdevpn]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a strided array ignoring NaN values and using a two-pass algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats-base/snanstdev`][@stdlib/stats/base/snanstdev]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a single-precision floating-point strided array ignoring NaN values.</span>
+-   <span class="package-name">[`@stdlib/stats-base/snanvariancepn`][@stdlib/stats/base/snanvariancepn]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array ignoring NaN values and using a two-pass algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats-base/sstdevpn`][@stdlib/stats/base/sstdevpn]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a single-precision floating-point strided array using a two-pass algorithm.</span>
 
 </section>
 
