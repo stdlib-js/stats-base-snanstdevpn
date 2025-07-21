@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-26)
+## Unreleased (2025-07-21)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`e4f8248`](https://github.com/stdlib-js/stdlib/commit/e4f8248932a64a941c0d0ce77ea312b235538440) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`8e9e556`](https://github.com/stdlib-js/stdlib/commit/8e9e556cbd76873f3418d4b999f1c2f125282a0d) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`742b5de`](https://github.com/stdlib-js/stdlib/commit/742b5deeb5ff921e03eac5560734c75e7535fdea) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`1bd0b30`](https://github.com/stdlib-js/stdlib/commit/1bd0b3026eef3e5a8a2643132042030c0ff6af47) - **refactor:** update  `stats/base/snanstdevpn` native addon from C++ to C [(#4475)](https://github.com/stdlib-js/stdlib/pull/4475) _(by Dhruv Arvind Singh)_
@@ -30,11 +31,12 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   Dhruv Arvind Singh
+-   Gururaj Gurram
 -   Philipp Burckhardt
 
 </section>
