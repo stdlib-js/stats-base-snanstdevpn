@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-30)
+## Unreleased (2026-02-07)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`8b905a5`](https://github.com/stdlib-js/stdlib/commit/8b905a5660d1c61e3cbac7ad25e376eb4988dcb4) - **bench:** refractor to use string interpolation in `stats/base/snanstdevpn` [(#10138)](https://github.com/stdlib-js/stdlib/pull/10138) _(by Shubham)_
 -   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`e4f8248`](https://github.com/stdlib-js/stdlib/commit/e4f8248932a64a941c0d0ce77ea312b235538440) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`8e9e556`](https://github.com/stdlib-js/stdlib/commit/8e9e556cbd76873f3418d4b999f1c2f125282a0d) - **refactor:** update paths _(by Aayush Khanna)_
@@ -32,13 +33,14 @@
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   Dhruv Arvind Singh
 -   Gururaj Gurram
 -   Philipp Burckhardt
+-   Shubham
 
 </section>
 
