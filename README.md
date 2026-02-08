@@ -110,7 +110,7 @@ The use of the term `n-1` is commonly referred to as Bessel's correction. Note, 
 ## Usage
 
 ```javascript
-import snanstdevpn from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-snanstdevpn@esm/index.mjs';
+import snanstdevpn from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-snanstdevpn@v0.2.3-esm/index.mjs';
 ```
 
 #### snanstdevpn( N, correction, x, stride )
@@ -223,7 +223,7 @@ var v = snanstdevpn.ndarray( N, 1, x, 2, 1 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@esm/index.mjs';
-import snanstdevpn from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-snanstdevpn@esm/index.mjs';
+import snanstdevpn from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-snanstdevpn@v0.2.3-esm/index.mjs';
 
 var x;
 var i;
