@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-03)
+## Unreleased (2026-06-11)
 
 <section class="commits">
 
@@ -12,7 +12,7 @@
 
 <details>
 
--   [`7804aaa`](https://github.com/stdlib-js/stdlib/commit/7804aaa23131173d59d96417301c981129c248d7) - **bench:** refactor to use dynamic memory allocation in `blas/base/snanstdevchpn` [(#11611)](https://github.com/stdlib-js/stdlib/pull/11611) _(by Uday Kakade)_
+-   [`7804aaa`](https://github.com/stdlib-js/stdlib/commit/7804aaa23131173d59d96417301c981129c248d7) - **bench:** refactor to use dynamic memory allocation in `stats/base/snanstdevpn` [(#11611)](https://github.com/stdlib-js/stdlib/pull/11611) _(by Uday Kakade)_
 
 </details>
 
