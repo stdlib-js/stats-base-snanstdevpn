@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-28)
+## Unreleased (2026-09-15)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`df598a0`](https://github.com/stdlib-js/stdlib/commit/df598a0ba8ad7bae3216bccfba0994e7c8ed8cee) - **test:** migrate `stats/base/snanstdevpn` to ULP-based assertions [(#15230)](https://github.com/stdlib-js/stdlib/pull/15230) _(by Athan Reines)_
 -   [`7804aaa`](https://github.com/stdlib-js/stdlib/commit/7804aaa23131173d59d96417301c981129c248d7) - **bench:** refactor to use dynamic memory allocation in `stats/base/snanstdevpn` [(#11611)](https://github.com/stdlib-js/stdlib/pull/11611) _(by Uday Kakade)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Uday Kakade
 
 </section>
